@@ -185,7 +185,39 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 💝法国时尚频道_11,#genre#
-法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+法国时尚,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 时尚FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+POP STAR,https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+Qmusic,https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
+CMC TV,https://cmc-ono.amagi.tv/playlist1080_p.m3u8
+CMC-USA TV,https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/chunklist_w1421510obd393sh.m3u8
+KRAL Pop TV,https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+NRG TV,https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w369229534.m3u8
+Avang TV,https://hls.avang.live/hls/stream.m3u8
+Power TV,https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b3128000_slTUR.m3u8
+Power Turk TV,https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5128000_slTUR.m3u8
+Power Dance TV,https://listen.powerapp.com.tr/dance/dance.smil/chunks.m3u8
+Power Love TV,https://listen.powerapp.com.tr/plove/love.smil/chunks.m3u8
+Power Turk Akustik TV,https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunks.m3u8
+Power Turk Slow TV,https://listen.powerapp.com.tr/pturkslow/slow.smil/chunks.m3u8
+Power Turk TapTaze TV,https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunks.m3u8
+Kiss Kiss TV,https://59253971be783.streamlock.net/KKTV01/livestream/chunklist_w670626132.m3u8
+MUZZIK,https://muzzik-live.morescreens.com/mts-6/576p/chunklist.m3u8
+Muzzik ELECTRO,https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
+FLASHBACK,https://muzzik-live.morescreens.com/mts-8/576p/chunklist.m3u8
+Muzzik MOBA,https://muzzik-live.morescreens.com/mts-2/576p/chunklist.m3u8
+Muzzik POP STAR,https://muzzik-live.morescreens.com/mts-3/576p/chunklist.m3u8
+Muzzik SENSE,https://muzzik-live.morescreens.com/mts-7/576p/chunklist.m3u8
+Muzzik TIKTAK,https://muzzik-live.morescreens.com/mts-a5/576p/chunklist.m3u8
+Muzzik ZZ TV,https://muzzik-live.morescreens.com/mts-a4/576p/chunklist.m3u8
+RETRO MUSIC,http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1906022021.m3u8
+OCKO,http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+Ocko TV,https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8
+Ocko Gold,https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist.m3u8
+Ocko Expres,https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/chunklist.m3u8
+Radio Italia TV,https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
+Country FM,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/tracks-v1a1/mono.m3u8
+Global Fashion,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
+Fashion One,https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist_b400000.m3u8
 
