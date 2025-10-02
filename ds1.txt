@@ -1,5 +1,9 @@
+🛰斗地主频道,#genre#
+JJ斗地主,https://pull-flv-f11.douyinliving.com/thirdgame/stream-406255173292524353_or4.flv?arch_hrchy=s2&expire=1759313666&major_anchor_level=vip&s_anchor=1&sign=5edc379afbad6d6dae6ee4ebe7fdf2df&t_id=037-20250924181425FEE4B0A757A7CE4DCD0F-d7UdU4&unique_id=stream-406255173292524353_833_flv_or4&_session_id=949-2025092418142663389369844319334ED7.1758708866633.05727&rsi=0&abr_pts=-800
+JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play
+JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+
 📺黑龙江高清,#genre#
-黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
 黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
 黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
@@ -137,9 +141,9 @@ CCTV17 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
 
 🍱CHC高清,#genre#
-动作电影,http://ndnas.top:3300/udp/225.1.4.208:1261?$河南联通
-家庭影院,http://ndnas.top:3300/udp/225.1.4.209:1262?$河南联通
-影迷电影,http://ndnas.top:3300/udp/225.1.4.207:1260?$河南联通
+CHC影迷电影,http://168250.xyz:1111/rtp/239.5.1.51:5000
+CHC家庭影院,http://168250.xyz:1111/rtp/239.5.1.50:5000
+CHC动作电影,http://168250.xyz:1111/rtp/239.5.1.52:5000
 
 
 🎬NewTV高清,#genre#
@@ -185,28 +189,7 @@ NewTV金牌综艺 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666
 剧2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 黑莓动画 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓电影 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-
-
-
-
-
-
-🛰斗地主频道,#genre#
-JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play
-JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-
-🎥杂频道频道,#genre#
-myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
-明珠台,http://bxtv.3a.ink/api.php?id=mz
-無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
-美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
-PopC,http://bxtv.3a.ink/api.php?id=popc
-VIUTV,http://bxtv.3a.ink/api.php?id=viutv
-千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
-翡翠台,http://bxtv.3a.ink/api.php?id=fct
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-
 
 💝法国时尚频道,#genre#
 
